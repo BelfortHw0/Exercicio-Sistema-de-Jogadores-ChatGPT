@@ -1,0 +1,9 @@
+# Arquivos gerados pelo Apache Ant / NetBeans
+build/
+dist/
+out/
+*.class
+*.jar
+
+# Configurações locais do NetBeans
+nbproject/private/
